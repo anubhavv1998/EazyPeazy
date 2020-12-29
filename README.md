@@ -5,4 +5,5 @@ It's interface is quite basic.<br>
 <br>
 <hr>
 <br>
+
 ![Easy Pizzy](https://github.com/anubhavv1998/EazyPizzy/blob/gh-pages/assets/EasyPizzyDemo.png?raw=true)
