@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Anubhav Launch",
+  "description": "Quick launch Anubhav",
+  "version": "1.0.0",
+  "icons": { "128": "assets/favicon.png" },
+  "browser_action": {
+    "default_icon": "assets/favicon.png",
+    "default_popup": "goto.html"
+  },
+  "permissions": ["activeTab"]
+}
