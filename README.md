@@ -6,4 +6,9 @@ It's interface is quite basic.<br>
 <hr>
 <br>
 
-![Easy Pizzy](https://github.com/anubhavv1998/EazyPizzy/blob/gh-pages/assets/EasyPizzyDemo.png?raw=true)
+<a href="https://anubhavv1998.github.io/EazyPizzy/">
+ 
+ ![Easy Pizzy](https://github.com/anubhavv1998/EazyPizzy/blob/gh-pages/assets/EasyPizzyDemo.png?raw=true)
+
+</a>
+<br>
