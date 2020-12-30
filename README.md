@@ -2,10 +2,11 @@
 A simple google chrome extension used to navigate through most frequent used websites (set by user) directly. 
 
 It's interface is quite basic.<br>
-<br>
+
 <hr>
 <br>
-<a href="https://anubhavv1998.github.io/EazyPizzy/">📫</a>
+<a href="https://anubhavv1998.github.io/EazyPizzy/" target="_blank">📫</a>
+
 <br>
 
 <a href="https://anubhavv1998.github.io/EazyPizzy/">
