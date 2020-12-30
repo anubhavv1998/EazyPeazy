@@ -5,6 +5,8 @@ It's interface is quite basic.<br>
 <br>
 <hr>
 <br>
+<a href="https://anubhavv1998.github.io/EazyPizzy/">📫</a>
+<br>
 
 <a href="https://anubhavv1998.github.io/EazyPizzy/">
  
