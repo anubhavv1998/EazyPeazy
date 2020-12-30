@@ -1,17 +1,17 @@
-# EazyPizzy
+# EazyPeazy
 A simple google chrome extension used to navigate through most frequent used websites (set by user) directly. 
 
 It's interface is quite basic.<br>
 
 <hr>
 <br>
-<a href="https://anubhavv1998.github.io/EazyPizzy/" target="_blank">📫</a>
+<a href="https://anubhavv1998.github.io/EazyPeazy/">📫</a>
 
 <br>
 
-<a href="https://anubhavv1998.github.io/EazyPizzy/">
+<a href="https://anubhavv1998.github.io/EazyPeazy/">
  
- ![Easy Pizzy](https://github.com/anubhavv1998/EazyPizzy/blob/gh-pages/assets/EasyPizzyDemo.png?raw=true)
+ ![EazyPeazy](https://github.com/anubhavv1998/EazyPeazy/blob/gh-pages/assets/EazyPeazyDemo.png?raw=true)
 
 </a>
 <br>
